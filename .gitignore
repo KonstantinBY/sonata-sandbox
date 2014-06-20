@@ -13,3 +13,4 @@
 /web/assetic/*[0-9]*
 /.idea/*
 /logs/*
+README.md
